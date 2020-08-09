@@ -1,0 +1,1 @@
+var startup = require("./settings.js")("a");
